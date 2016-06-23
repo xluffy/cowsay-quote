@@ -7,3 +7,6 @@ Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do 
 If debugging is the process of removing software bugs, then programming must be the process of putting them in.  — Edsger Dijkstra
 On the seventh day, God said, "Ship it! We'll release patches later. — Josh Flachsbart
 Perl – The only language that looks the same before and after RSA encryption. — Keith Bostic
+On the seventh day, God said, "Ship it! We'll release patches later. — Josh Flachsbart
+It's not a bug, it's a feature! - Anonymouso
+There, it should work now. - All programmers
