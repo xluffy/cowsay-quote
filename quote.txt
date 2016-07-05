@@ -7,5 +7,9 @@ Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do 
 If debugging is the process of removing software bugs, then programming must be the process of putting them in. — Edsger Dijkstra
 Perl – The only language that looks the same before and after RSA encryption. — Keith Bostic
 On the seventh day, God said, "Ship it! We'll release patches later. — Josh Flachsbart
-It's not a bug, it's a feature! - Anonymouso
+It's not a bug, it's a feature! - Unknown
 There, it should work now. - All programmers
+There Are Only 10 Types Of People In The World: Those Who Understand Binary, And Those Who Don't - Unknown
+Before Software Can Be Reusable It First Has To Be Usable. - Ralph Johnson
+Programming is like sex: One mistake and you have to support it for the rest of your life. - Unknown
+Why programmers like UNIX: unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep - Unknown
