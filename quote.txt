@@ -13,3 +13,5 @@ There Are Only 10 Types Of People In The World: Those Who Understand Binary, And
 Before Software Can Be Reusable It First Has To Be Usable. - Ralph Johnson
 Programming is like sex: One mistake and you have to support it for the rest of your life. - Unknown
 Why programmers like UNIX: unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep - Unknown
+Some people, when confronted with a problem, think "I know, I'll use regular expressions. Now they have two problems - Jamie Zawinski 
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.  — Edsger Dijkstra
