@@ -15,3 +15,5 @@ Programming is like sex: One mistake and you have to support it for the rest of 
 Why programmers like UNIX: unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep - Unknown
 Some people, when confronted with a problem, think "I know, I'll use regular expressions. Now they have two problems - Jamie Zawinski 
 If debugging is the process of removing software bugs, then programming must be the process of putting them in.  — Edsger Dijkstra
+Code formatting is important. It is too important to ignore and it is too important to treat religiously. Code formatting is about communication, and communication is the professional
+developer’s first order of business. Perhaps you thought that “getting it working” was the first order of business for a professional developer. - Clean Code - Robert Martin
